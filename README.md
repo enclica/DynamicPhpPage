@@ -1,2 +1,2 @@
 # DynamicPhpPage
-DPP is similar to wordpress but less for blogs and more for pages in general. You can use DPP in any site and the admin page is /dpp-admin
+DPP open-source DPP open-source is the open-source version of DPP this is more for hobby projects that need more than 1 page loaded.
